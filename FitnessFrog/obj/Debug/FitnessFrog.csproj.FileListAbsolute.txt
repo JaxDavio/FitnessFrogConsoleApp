@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2017\Projects\FitnessFrog\FitnessFrog\bin\Debug\FitnessFrog.exe.config
+c:\users\student\documents\visual studio 2017\Projects\FitnessFrog\FitnessFrog\bin\Debug\FitnessFrog.exe
+c:\users\student\documents\visual studio 2017\Projects\FitnessFrog\FitnessFrog\bin\Debug\FitnessFrog.pdb
+c:\users\student\documents\visual studio 2017\Projects\FitnessFrog\FitnessFrog\obj\Debug\FitnessFrog.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\FitnessFrog\FitnessFrog\obj\Debug\FitnessFrog.exe
+c:\users\student\documents\visual studio 2017\Projects\FitnessFrog\FitnessFrog\obj\Debug\FitnessFrog.pdb
